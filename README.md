@@ -1,4 +1,4 @@
- Bonface Karani
+# Bonface Karani
 
 I'm **Bonface Karani**, a backend-focused Full Stack Software Engineer with **2+ years of experience** building scalable, production-grade applications and financial infrastructure. My expertise spans **Java (Spring Boot), TypeScript (NestJS)**, event-driven systems, and cloud-native architecture.
 
@@ -76,11 +76,6 @@ Multi-tenant financial infrastructure platform with double-entry ledger modeling
 **Stack:** Spring Boot · NestJS · PostgreSQL · Redis · Kafka · Docker
 **Live:** [jawatech.lads.sc.ke](https://jawatech.lads.sc.ke)
 
-### SmartEduOps — School Management System
-Full school management backend handling student records, attendance, and grades, with sub-200ms real-time processing. Deployed on AWS/Kubernetes with 99.9% uptime.
-**Stack:** Spring Boot · Kafka · Redis · PostgreSQL · AWS
-**Live:** [smarteduops.com](https://smarteduops.com)
-
 ### PoulTrack — AI Poultry Farm Monitoring System
 IoT farm monitoring platform with real-time video streaming and AI-powered detection via YOLOv8, using dual-channel Redis architecture for 15 FPS streaming.
 **Stack:** NestJS · Python FastAPI · YOLOv8 · PostgreSQL · Redis · WebSocket
@@ -93,4 +88,4 @@ IoT farm monitoring platform with real-time video streaming and AI-powered detec
 **Email:** karaninjoroge005@gmail.com
 **Phone:** (+254) 700581386
 **GitHub:** [github.com/Bonfacek](https://github.com/Bonfacek)
-**Location:** Nairobi, Kenya# paste the content from the file above
+**Location:** Nairobi, Kenya
