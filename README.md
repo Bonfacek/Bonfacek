@@ -1,4 +1,4 @@
-v# Bonface Karani
+ Bonface Karani
 
 I'm **Bonface Karani**, a backend-focused Full Stack Software Engineer with **2+ years of experience** building scalable, production-grade applications and financial infrastructure. My expertise spans **Java (Spring Boot), TypeScript (NestJS)**, event-driven systems, and cloud-native architecture.
 
