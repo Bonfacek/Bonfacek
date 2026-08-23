@@ -7,7 +7,6 @@ I'm **Bonface Karani**, a backend-focused Full Stack Software Engineer with **2+
 ## GitHub Stats
 
 [![Bonface's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonfacek&show_icons=true&theme=radical&hide_border=true)](https://github.com/Bonfacek)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bonfacek&theme=radical&hide_border=true)](https://github.com/Bonfacek)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bonfacek&layout=compact&theme=radical&hide_border=true)](https://github.com/Bonfacek)
 
 ---
@@ -42,8 +41,6 @@ I'm **Bonface Karani**, a backend-focused Full Stack Software Engineer with **2+
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Database](https://img.shields.io/badge/DATABASE-gray?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Database](https://img.shields.io/badge/DATABASE-gray?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Database](https://img.shields.io/badge/DATABASE-gray?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
